@@ -1,0 +1,14 @@
+/* External CSS */
+body {
+    background-color: #f0f8ff; /* Light blue background color */
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange; /* Change link color on hover */
+    text-decoration: underline;
+}
